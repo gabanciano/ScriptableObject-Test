@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptableObject Test", "ScriptableObject Test.csproj", "{D8D6A50B-94E0-4C2F-C7C0-37287E1D64DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8D6A50B-94E0-4C2F-C7C0-37287E1D64DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D6A50B-94E0-4C2F-C7C0-37287E1D64DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D6A50B-94E0-4C2F-C7C0-37287E1D64DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D6A50B-94E0-4C2F-C7C0-37287E1D64DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
